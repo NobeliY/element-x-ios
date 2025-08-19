@@ -1,7 +1,8 @@
 settings:
-  APP_DISPLAY_NAME: Element X
-  PRODUCTION_APP_NAME: Element
-  APP_GROUP_IDENTIFIER: group.io.element
-  BASE_BUNDLE_IDENTIFIER: io.element.elementx
+  APP_DISPLAY_NAME: TN Chat X
+  PRODUCTION_APP_NAME: TN Chat
+  APP_GROUP_IDENTIFIER: group.tatar.tatneft.oesi
+  BASE_BUNDLE_IDENTIFIER: tatar.tatneft.oesi.tnchat
   ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: "colors/accent-color"
   DEVELOPMENT_TEAM: 7J4U792NQT
+  # DEVELOPMENT_TEAM изменить
